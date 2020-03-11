@@ -24,7 +24,7 @@ def now_serving(line)
   if line.length == 0 
     puts "there is no body to serve!"
   else 
-    puts "currently serving line #{line[0]}"
+    puts "currently serving line #{line[0]}."
     line.shift
   end
 end
