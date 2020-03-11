@@ -29,3 +29,4 @@ def now_serving(line)
   end
 end
 
+def now_serving
