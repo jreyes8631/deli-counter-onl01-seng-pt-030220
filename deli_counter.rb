@@ -26,3 +26,4 @@ def now_serving(line)
   else 
     puts "currently serving line #{line[0]}"
   end
+end
